@@ -4,3 +4,5 @@ Learning git!!.....
 Welcome...!!!!!!!!!!!!
 
 Some changes taken place
+Hello 
+text file changed
